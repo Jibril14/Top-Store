@@ -2,7 +2,7 @@
 
 /static
 secret_key.txt
-
+Mydoc.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
